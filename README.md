@@ -1,7 +1,7 @@
 # Individual Analysis Report: HeapSort & ShellSort
-Course: Algorithmic Analysis
- Author: Alisher Akhmet SE-2425
- Date: 05.10.2025
+#Course: Algorithmic Analysis
+#Author: Alisher Akhmet SE-2425
+#Date: 06.10.2025
 
 1. Algorithm Overview
 HeapSort builds a binary heap and then sorts by moving the largest element to the end each time.
